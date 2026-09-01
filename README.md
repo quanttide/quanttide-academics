@@ -21,7 +21,8 @@
 | `apps/qtacademics` | 量潮学术，学术黄页 (git submodule → qtacademics，与 quanttide-platform/apps 共用) |
 | `packages/toolkit` | 共享库/工具集 |
 | `examples/default` | 学术研究实验室 |
-| `data/` | 数据类资产（context/journal/intention/profile/roadmap/insight/brochure 等） |
+| `data/profile` | 学术研究工作档案 (git submodule → quanttide-profile-of-academic-research) |
+| `data/journal` | 学术研究工作日志 (git submodule → quanttide-journal-of-academic-research) |
 | `docs/specification` | 学术研究标准 (git submodule → quanttide-specification-of-academic-research) |
 | `docs/tutorial` | 学术研究教程 (git submodule → quanttide-tutorial-of-academic-research) |
 | `docs/` | 文档类资产（bylaw/handbook/tutorial/essay/gallery 等） |

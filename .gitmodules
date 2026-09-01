@@ -7,3 +7,9 @@
 [submodule "docs/tutorial"]
 	path = docs/tutorial
 	url = https://github.com/quanttide/quanttide-tutorial-of-academic-research.git
+[submodule "data/profile"]
+	path = data/profile
+	url = https://github.com/quanttide/quanttide-profile-of-academic-research.git
+[submodule "data/journal"]
+	path = data/journal
+	url = https://github.com/quanttide/quanttide-journal-of-academic-research.git
