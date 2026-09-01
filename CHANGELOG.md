@@ -17,3 +17,4 @@
 - 注册子模块：`docs/tutorial`（学术研究教程，quanttide-tutorial-of-academic-research）
 - 注册子模块：`data/profile`（学术研究工作档案，quanttide-profile-of-academic-research）
 - 注册子模块：`data/journal`（学术研究工作日志，quanttide-journal-of-academic-research）
+- 注册子模块：`data/context`（学术研究语境，quanttide-context-of-academic-research）
