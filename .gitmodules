@@ -1,0 +1,9 @@
+[submodule "apps/qtacademics"]
+	path = apps/qtacademics
+	url = https://github.com/quanttide/qtacademics.git
+[submodule "docs/specification"]
+	path = docs/specification
+	url = https://github.com/quanttide/quanttide-specification-of-academic-research.git
+[submodule "docs/tutorial"]
+	path = docs/tutorial
+	url = https://github.com/quanttide/quanttide-tutorial-of-academic-research.git
